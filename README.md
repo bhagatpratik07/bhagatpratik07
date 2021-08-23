@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **bhagatpratik.2002@gmail.com**
 
-- ⚡ Fun fact **I like dogs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
