@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@bhagatpratik07](https://hashnode.com/@bhagatpratik07)
 
-- 💬 Ask me about **javascript,react,next js**
+- 💬 Ask me about **Javascript, React, Next JS, Data Structures**
 
 - 📫 How to reach me **bhagatpratik.2002@gmail.com**
 
