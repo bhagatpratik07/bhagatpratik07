@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 📝 I regularly write articles on [https://hashnode.com/@bhagatpratik07](https://hashnode.com/@bhagatpratik07)
+- 📝 I regularly write articles on [https://dev.to/bhagatpratik07](https://dev.to/bhagatpratik07)
 
 - 💬 Ask me about **Javascript, React, Next JS, Data Structures**
 
