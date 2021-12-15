@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/bhagatpratik07" target="blank"><img src="https://img.shields.io/twitter/follow/bhagatpratik07?logo=twitter&style=for-the-badge" alt="bhagatpratik07" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Data Structures and Algorithms and Node JS**
 
 - 📝 I regularly write articles on [https://dev.to/bhagatpratik07](https://dev.to/bhagatpratik07)
 
